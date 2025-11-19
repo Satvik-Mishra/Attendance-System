@@ -1,0 +1,7 @@
+streamlit
+firebase_admin
+geopy
+pandas
+pytz
+streamlit-js-eval
+grpcio
